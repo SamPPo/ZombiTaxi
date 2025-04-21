@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/Mesh/ZombiAnims.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/Mesh/Zombi_anim_offsets.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/Material/EnemyDebug_M.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/Mesh/Zombi_offsets.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Proto/TestLevel.umap",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Core/Materials/MF_VAT_SimpleOffsets.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Proto/offsets_001.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Proto/TestMesh.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Proto/NewBlueprint.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Proto/asd.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/ZT_ZombiMaster_TEST.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/ZT_ZombiSpawner_TEST.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/Mesh/Zombi_DF.uasset",
+				"C:/Projects/UnrealProjects/ZombiTaxi/ZombiTaxi/Content/Enemies/ZT_ZombiMaster.uasset"
+			]
+		}
+	]
+}
